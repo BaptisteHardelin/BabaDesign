@@ -1,17 +1,7 @@
+<link href="style.css" rel="stylesheet"></link> 
 # babadesign
 
 ## Components List
-
-<style>
-    a {
-        color: white;
-    }
-
-    a:hover {
-        text-decoration: none;
-        color: white;
-    }
-</style>
 
 <ul>
 <li><a href="#label">Label</a></li>
